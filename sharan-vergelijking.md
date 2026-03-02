@@ -4,12 +4,12 @@ Zoekdatum: 2 maart 2026
 
 ## Samenvatting
 
-**Totaal gevonden:** 24 Sharans (alleen benzine, geverifieerd 7-zits) in prijsklasse €5k-20k
+**Totaal gevonden:** 23 Sharans (alleen benzine, geverifieerd 7-zits) in prijsklasse €5k-20k
 
 | Prijsklasse | Aantal | Typisch Bouwjaar | Typische km-stand | Motor |
 |-------------|--------|------------------|-------------------|-------|
 | €5k - €7k | 3 | 2011-2012 | 200.000+ | 1.4 TSI |
-| €7k - €10k | 4 | 2011-2013 | 150.000-250.000 | 1.4 TSI |
+| €7k - €10k | 3 | 2011-2013 | 150.000-250.000 | 1.4 TSI |
 | €10k - €14k | 3 | 2011-2014 | 100.000-180.000 | 1.4 TSI / 2.0 TSI |
 | €14k - €15k | 4 | 2013-2015 | 100.000-200.000 | 1.4 TSI |
 | €15k - €17k | 4 | 2013-2015 | 120.000-160.000 | 1.4 TSI / 2.0 TSI |
@@ -79,21 +79,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 5. VW Sharan 1.4 TSI Highline + Kinderstoelen - €9.500 (Haarlem) - **Particulier**
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI 150 PK |
-| **Transmissie** | Handgeschakeld |
-| **Uitrusting** | Geintegreerde kinderzitjes, Panoramadak, Stoelverwarming, Cruise |
-| **Banden** | Zomer + winter op LM velgen |
-| **Link** | [m2372204468](https://link.marktplaats.nl/m2372204468) |
-
-**Uniek:** Geintegreerde kinderzitjes (3+ jaar). Klein deukje + lakschade. €1.000 korting als je voor 17/3 koopt en zelf laat repareren.
-
----
-
-### 6. VW Sharan 1.4 TSI Highline DSG Automaat - €9.995 (Steenwijk)
+### 5. VW Sharan 1.4 TSI Highline DSG Automaat - €9.995 (Steenwijk)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -104,7 +90,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 7. VW Sharan 1.4 TSI DSG Panodak - €9.995 (Uithoorn) - **Particulier**
+### 6. VW Sharan 1.4 TSI DSG Panodak - €9.995 (Uithoorn) - **Particulier**
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -122,7 +108,7 @@ Zoekdatum: 2 maart 2026
 
 > **Betere staat, meer keuze in automaat (DSG).**
 
-### 8. VW Sharan 2.0 TSI DSG 200PK - €11.950 (Oldebroek)
+### 7. VW Sharan 2.0 TSI DSG 200PK - €11.950 (Oldebroek)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -135,7 +121,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 9. VW Sharan 1.4 TSI Highline DSG Automaat - €11.995 (Apeldoorn)
+### 8. VW Sharan 1.4 TSI Highline DSG Automaat - €11.995 (Apeldoorn)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -146,7 +132,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 10. VW Sharan 1.4 TSI Comfortline Edition - €13.440 (Goes)
+### 9. VW Sharan 1.4 TSI Comfortline Edition - €13.440 (Goes)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -157,7 +143,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 11. VW Sharan 1.4 TSI Highline Panodak Leder - €13.889 (Utrecht) - **Particulier**
+### 10. VW Sharan 1.4 TSI Highline Panodak Leder - €13.889 (Utrecht) - **Particulier**
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -171,7 +157,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 12. VW Sharan 1.4 TSI Highline DSG Automaat - €14.445 (Apeldoorn)
+### 11. VW Sharan 1.4 TSI Highline DSG Automaat - €14.445 (Apeldoorn)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -182,7 +168,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 13. VW Sharan 1.4 TSI Comfortline Edition DSG - €14.499 (Tilburg) - **1e Eigenaar**
+### 12. VW Sharan 1.4 TSI Comfortline Edition DSG - €14.499 (Tilburg) - **1e Eigenaar**
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -197,7 +183,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 14. VW Sharan 1.4 TSI Highline - €14.995 (Harderwijk)
+### 13. VW Sharan 1.4 TSI Highline - €14.995 (Harderwijk)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -213,7 +199,7 @@ Zoekdatum: 2 maart 2026
 
 > **Lagere km, nieuwere modellen (2014-2015), premium uitvoering.**
 
-### 15. VW Sharan 1.4 TSI Highline Panodak LED Adaptive - €16.450 (Velddriel)
+### 14. VW Sharan 1.4 TSI Highline Panodak LED Adaptive - €16.450 (Velddriel)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -223,7 +209,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 16. VW Sharan 1.4 TSI Highline DSG Automaat - €16.888 (Workum)
+### 15. VW Sharan 1.4 TSI Highline DSG Automaat - €16.888 (Workum)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -234,7 +220,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 17. VW Sharan 1.4 TSI DSG Highline Panodak - €16.950 (Drunen) - **Zakelijk**
+### 16. VW Sharan 1.4 TSI DSG Highline Panodak - €16.950 (Drunen) - **Zakelijk**
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -245,7 +231,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 18. VW Sharan 2.0 TSI Highline 200PK DSG - €16.950 (Wijk en Aalburg)
+### 17. VW Sharan 2.0 TSI Highline 200PK DSG - €16.950 (Wijk en Aalburg)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -263,7 +249,7 @@ Zoekdatum: 2 maart 2026
 
 > **Premium segment:** Nieuwste modellen, laagste km, volledige opties, soms nieuwe motor.
 
-### 19. VW Sharan 1.4 TSI Exclusive Series - €17.400 (Venlo) - **Particulier**
+### 18. VW Sharan 1.4 TSI Exclusive Series - €17.400 (Venlo) - **Particulier**
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -277,7 +263,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 20. VW Sharan Highline **NIEUWE MOTOR** - €17.500 (Lievelde)
+### 19. VW Sharan Highline **NIEUWE MOTOR** - €17.500 (Lievelde)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -290,7 +276,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 21. VW Sharan 1.4 TSI Comfortline DSG Automaat - €17.695 (Amsterdam)
+### 20. VW Sharan 1.4 TSI Comfortline DSG Automaat - €17.695 (Amsterdam)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -301,7 +287,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 22. VW Sharan 1.4 TSI Highline DSG Automaat CarPlay - €17.800 (Ridderkerk)
+### 21. VW Sharan 1.4 TSI Highline DSG Automaat CarPlay - €17.800 (Ridderkerk)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -314,7 +300,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 23. VW Sharan 1.4 TSI Highline Edition DSG - €17.950 (Alkmaar)
+### 22. VW Sharan 1.4 TSI Highline Edition DSG - €17.950 (Alkmaar)
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -328,7 +314,7 @@ Zoekdatum: 2 maart 2026
 
 ---
 
-### 24. VW Sharan 1.4 TSI DSG Highline FULLOPTION - €19.941 (Oss) - **1e Eigenaar**
+### 23. VW Sharan 1.4 TSI DSG Highline FULLOPTION - €19.941 (Oss) - **1e Eigenaar**
 | Kenmerk | Waarde |
 |---------|--------|
 | **Zitplaatsen** | 7 |
@@ -356,11 +342,11 @@ Zoekdatum: 2 maart 2026
 - **Risico:** Inspectie laten doen op ketting, DSG indien aanwezig
 
 ### Budget €7.000 - €10.000
-**Beste keuze:** [VW Sharan 1.4 TSI Highline + Kinderstoelen €9.500](https://link.marktplaats.nl/m2372204468)
-- Voordeel: Particulier, unieke kinderstoelen, 2 sets wielen
-- Optioneel: €8.500 als je voor 17/3 koopt (€1000 korting voor zelf repareren deukje)
+**Beste keuze:** [VW Sharan 1.4 TSI DSG €9.995 Steenwijk](https://link.marktplaats.nl/m2370453486)
+- Voordeel: DSG automaat, Highline uitvoering, navigatie, PDC
 
-**Alternatief voor automaat:** [VW Sharan 1.4 TSI DSG €9.995](https://link.marktplaats.nl/m2370453486) of [€9.995 Uithoorn](https://link.marktplaats.nl/m2361531144)
+**Alternatief:** [VW Sharan 1.4 TSI DSG €9.995 Uithoorn](https://link.marktplaats.nl/m2361531144)
+- Voordeel: Panoramadak, trekhaak, particulier
 
 ### Budget €10.000 - €14.000
 **Voor automaat:** [VW Sharan 1.4 TSI Highline DSG €11.995](https://link.marktplaats.nl/m2367591052)
@@ -417,7 +403,7 @@ Zoekdatum: 2 maart 2026
 | Scenario | Aanbeveling | Prijs |
 |----------|-------------|-------|
 | **Laagste prijs** | Sharan 1.4 TSI Highline Snelrewaard | €5.450 |
-| **Beste waarde <€10k** | Sharan 1.4 TSI Haarlem (met kinderstoelen) | €8.500-9.500 |
+| **Beste waarde <€10k** | Sharan 1.4 TSI DSG Steenwijk | €9.995 |
 | **Sweet spot kwaliteit** | Sharan 1.4 TSI DSG Tilburg (1e eigenaar) | €14.499 |
 | **Beste algeheel** | Sharan 1.4 TSI DSG Oss (94k km, fulloption) | €19.941 |
 | **Maximum zekerheid** | Sharan met NIEUWE MOTOR Lievelde | €17.500 |
