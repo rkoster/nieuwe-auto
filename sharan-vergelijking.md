@@ -4,408 +4,563 @@ Zoekdatum: 2 maart 2026
 
 ## Samenvatting
 
-**Totaal gevonden:** 23 Sharans (alleen benzine, geverifieerd 7-zits) in prijsklasse €5k-20k
+**Totaal gevonden:** 30 Sharans (alleen benzine, 7+ zits) in prijsklasse €5k-20k
 
-| Prijsklasse | Aantal | Typisch Bouwjaar | Typische km-stand | Motor |
-|-------------|--------|------------------|-------------------|-------|
-| €5k - €7k | 3 | 2011-2012 | 200.000+ | 1.4 TSI |
-| €7k - €10k | 3 | 2011-2013 | 150.000-250.000 | 1.4 TSI |
-| €10k - €14k | 3 | 2011-2014 | 100.000-180.000 | 1.4 TSI / 2.0 TSI |
-| €14k - €15k | 4 | 2013-2015 | 100.000-200.000 | 1.4 TSI |
-| €15k - €17k | 4 | 2013-2015 | 120.000-160.000 | 1.4 TSI / 2.0 TSI |
-| €17k - €20k | 6 | 2013-2016 | 90.000-175.000 | 1.4 TSI |
+| Prijsklasse | Aantal | Typische Motor | Transmissie |
+|-------------|--------|----------------|-------------|
+| €10k - €13k | 6 | 1.4 TSI | 3/6 automaat |
+| €13k - €15k | 6 | 1.4 TSI | 3/6 automaat |
+| €15k - €17k | 6 | 1.4 TSI | 2/6 automaat |
+| €17k - €20k | 4 | 1.4 TSI | 4/4 automaat |
+| €5k - €7k | 4 | 1.4 TSI | 1/4 automaat |
+| €7k - €10k | 4 | 1.4 TSI | 2/4 automaat |
 
 ---
 
-## Prijsklasse €5.000 - €7.000
+## Prijsklasse € 10.000 - € 13.000
 
-> **Let op:** Budget segment met oudere modellen en hogere km-standen. Extra inspectie aanbevolen.
+### 1. Volkswagen Sharan 1.4 TSI Comfortline Edition 7 Persoons | T - €11.900
 
-### 1. VW Sharan 1.4 TSI Highline - €5.450 (Snelrewaard)
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2371025010](https://link.marktplaats.nl/m2371025010) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | Handgeschakeld |
-| **Bouwjaar** | ~2011 |
-| **Wegenbelasting** | €307-335/kwartaal |
-| **Uitrusting** | Leder, Navigatie, Trekhaak, Executive-pakket |
-| **APK** | Tot juni 2026 |
-| **Link** | [m2369932285](https://link.marktplaats.nl/m2369932285) |
-
-**Opmerking:** Zeer compleet uitgerust (leder, navi, stoelverwarming). Laagste prijs voor volledige Highline.
-
----
-
-### 2. VW Sharan 1.4 TSI Comfortline - €6.945 (Beekbergen)
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI 150 PK |
-| **Transmissie** | Handgeschakeld |
-| **Uitrusting** | Navigatie, Clima |
-| **Link** | [m2372562811](https://link.marktplaats.nl/m2372562811) |
-
----
-
-### 3. VW Sharan 1.4 TSI Highline - €6.950 (Putten) - **Zakelijke verkoper**
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI 150 PK |
-| **Transmissie** | Handgeschakeld |
-| **Uitrusting** | Executive-pakket, Navigatie, ECC, Cruise |
-| **APK** | Tot oktober 2026 |
-| **Link** | [m2365407457](https://link.marktplaats.nl/m2365407457) |
-
-**Opmerking:** Wat gebruikssporen buiten, maar onderhoudsboekje + 2 sleutels aanwezig.
-
----
-
-## Prijsklasse €7.000 - €10.000
-
-> **Sweet spot voor budget-kopers:** Goede balans tussen prijs en staat.
-
-### 4. VW Sharan 1.4 TSI DSG - €7.200 (Schagen) - **Particulier**
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI |
-| **Transmissie** | **Automaat (DSG)** |
-| **Bouwjaar** | 2011 |
-| **Link** | [m2372430785](https://link.marktplaats.nl/m2372430785) |
-
-**Opmerking:** Goed onderhouden particuliere auto, goedkoopste DSG automaat!
-
----
-
-### 5. VW Sharan 1.4 TSI Highline DSG Automaat - €9.995 (Steenwijk)
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI 150 PK |
-| **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | ECC, PDC, Navigatie, LMV |
-| **Link** | [m2370453486](https://link.marktplaats.nl/m2370453486) |
-
----
-
-### 6. VW Sharan 1.4 TSI DSG Panodak - €9.995 (Uithoorn) - **Particulier**
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI |
-| **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | Panoramadak, Trekhaak, 7-persoons |
-| **NAP** | Goedgekeurd |
-| **Link** | [m2361531144](https://link.marktplaats.nl/m2361531144) |
-
-**Opmerking:** Minpunt: deuk rechtsachter (zie foto).
-
----
-
-## Prijsklasse €10.000 - €13.000
-
-> **Betere staat, meer keuze in automaat (DSG).**
-
-### 7. VW Sharan 2.0 TSI DSG 200PK - €11.950 (Oldebroek)
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | **2.0 TSI 200 PK** (krachtigste benzine) |
-| **Transmissie** | **Automaat (DSG)** |
-| **Bouwjaar** | 2011 |
-| **Link** | [m2370726610](https://link.marktplaats.nl/m2370726610) |
-
-**Opmerking:** Krachtigste benzinemotor! Let op: hoger verbruik dan 1.4 TSI.
-
----
-
-### 8. VW Sharan 1.4 TSI Highline DSG Automaat - €11.995 (Apeldoorn)
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI 150 PK |
-| **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | Navigatie, NL auto |
-| **Link** | [m2367591052](https://link.marktplaats.nl/m2367591052) |
-
----
-
-### 9. VW Sharan 1.4 TSI Comfortline Edition - €13.440 (Goes)
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI 150 PK |
 | **Bouwjaar** | 2014 |
-| **Uitrusting** | Navigatie, Bluetooth |
-| **Link** | [m2364777100](https://link.marktplaats.nl/m2364777100) |
+| **Km-stand** | 194.031 km |
+| **APK tot** | 17 februari 2027 |
+| **Eigenaren** | 2 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Achteruitrijcamera, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer +23 meer |
 
 ---
 
-### 10. VW Sharan 1.4 TSI Highline Panodak Leder - €13.889 (Utrecht) - **Particulier**
+### 2. Volkswagen Sharan 2.0 TSI 147KW DSG - €11.950
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2370726610](https://link.marktplaats.nl/m2370726610) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 2 TSI 200 PK |
+| **Transmissie** | **Automaat (DSG)** |
+| **Bouwjaar** | 2011 |
+| **Km-stand** | 250.063 km |
+| **APK tot** | 27 november 2025 |
+| **Eigenaren** | 4 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Airbags, Airconditioning, Boordcomputer, Centrale vergrendeling, Cruise Control, Elektrische stoelverstelling, Isofix +11 meer |
+
+---
+
+### 3. Volkswagen Sharan 1.4 TSI Comfortline 7pers. Trekhaak 1800kg - €11.950
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2366187871](https://link.marktplaats.nl/m2366187871) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2013 |
+| **Km-stand** | 207.132 km |
+| **APK tot** | 26 februari 2026 |
+| **Eigenaren** | 5 |
+| **Kleur** | Blauw |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Boordcomputer, Centrale vergrendeling, Climate control, Cruise Control +18 meer |
+
+---
+
+### 4. Volkswagen Sharan 1.4 TSI Highline 7p Automaat, Navi NL auto - €11.995
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2367591052](https://link.marktplaats.nl/m2367591052) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | **Automaat (DSG)** |
+| **Bouwjaar** | 2015 |
+| **Km-stand** | 223.347 km |
+| **APK tot** | 9 december 2026 |
+| **Eigenaren** | 2 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control +25 meer |
+
+---
+
+### 5. Volkswagen SHARAN 1.4 TSI Highline 7p. - €12.800
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2363423395](https://link.marktplaats.nl/m2363423395) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2011 |
+| **Km-stand** | 133.164 km |
+| **APK tot** | 14 december 2026 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control +21 meer |
+
+---
+
+### 6. Volkswagen Sharan 1.4 TSI Highline 7p. - €12.950 - **Particulier**
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2372411885](https://link.marktplaats.nl/m2372411885) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | **Automaat (DSG)** |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 223.249 km |
+| **APK tot** | 7 augustus 2026 |
+| **Eigenaren** | 4 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control +24 meer |
+
+---
+
+## Prijsklasse € 13.000 - € 15.000
+
+### 1. Volkswagen Sharan 1.4 TSI 110KW 2012 Grijs - €13.500 - **Particulier**
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2360330102](https://link.marktplaats.nl/m2360330102) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 136.207 km |
+| **APK tot** | 16 november 2026 |
+| **Eigenaren** | 2 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Airbags, Airconditioning, Centrale vergrendeling, Climate control, Cruise Control, Dakrails, Elektrische buitenspiegels +12 meer |
+
+---
+
+### 2. Volkswagen Sharan 1.4 110KW 2015 Zwart - €13.889 - **Particulier**
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2369238735](https://link.marktplaats.nl/m2369238735) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 149 PK |
+| **Transmissie** | **Automaat (DSG)** |
 | **Bouwjaar** | 2015 |
 | **Km-stand** | 187.500 km |
-| **Eigenaren** | 1 (particulier) |
-| **Uitrusting** | Panoramadak, Leder, 2 sets wielen |
-| **APK** | Tot mei 2026 |
-| **Link** | [m2369238735](https://link.marktplaats.nl/m2369238735) |
+| **APK tot** | 24 mei 2026 |
+| **Eigenaren** | 1 |
+| **Kleur** | Zwart |
+| **Opties** | Adaptive Cruise Control, Airbags, Airconditioning, Boordcomputer, Climate control, Cruise Control, Dakrails, Electronic Stability Program (ESP) +16 meer |
 
 ---
 
-### 11. VW Sharan 1.4 TSI Highline DSG Automaat - €14.445 (Apeldoorn)
+### 3. Volkswagen Sharan 1.4 TSI Comfortline 7p. Navi, NAP Nette au - €13.950 - **1e Eigenaar**
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2363310958](https://link.marktplaats.nl/m2363310958) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2013 |
+| **Km-stand** | 129.702 km |
+| **APK tot** | 7 februari 2027 |
+| **Eigenaren** | 1 |
+| **Kleur** | Wit |
+| **Opties** | ABS, Airbags, Airconditioning, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control, Cruise Control +17 meer |
+
+---
+
+### 4. Volkswagen Sharan |1.4 TSI Highline |7p. - €13.950 - **1e Eigenaar**
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2368538448](https://link.marktplaats.nl/m2368538448) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2015 |
+| **Km-stand** | 174.166 km |
+| **APK tot** | 5 februari 2027 |
+| **Eigenaren** | 1 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer, Centrale vergrendeling +26 meer |
+
+---
+
+### 5. Volkswagen Sharan 1.4 TSI Highline 7pAutomaat Navi Camera El - €14.445
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2370079602](https://link.marktplaats.nl/m2370079602) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | Navigatie, Camera, Elektrische schuifdeuren |
-| **Link** | [m2370079602](https://link.marktplaats.nl/m2370079602) |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 149.999 km |
+| **Kleur** | Blauw |
+| **Opties** | ABS, Achteruitrijcamera, Airbags, Airconditioning, Alarm, Boordcomputer, Centrale vergrendeling, Climate control +22 meer |
 
 ---
 
-### 12. VW Sharan 1.4 TSI Comfortline Edition DSG - €14.499 (Tilburg) - **1e Eigenaar**
+### 6. Volkswagen Sharan 1.4 TSI Comfortline Edition 7 PERSOONS - €14.499
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2366120202](https://link.marktplaats.nl/m2366120202) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | **Automaat (DSG)** |
-| **Eigenaren** | **1e eigenaar** |
-| **Uitrusting** | Panoramadak, Navigatie, Stoelverwarming, PDC v+a, Schakelflippers |
-| **Wegenbelasting** | €307-335/kwartaal |
-| **Link** | [m2366120202](https://link.marktplaats.nl/m2366120202) |
-
-**TOP KEUZE:** 1e eigenaar, automaat, panoramadak, compleet. Eerder besproken in zoekresultaten.md.
+| **Bouwjaar** | 2014 |
+| **Km-stand** | 193.316 km |
+| **APK tot** | 18 augustus 2025 |
+| **Eigenaren** | 2 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control +26 meer |
 
 ---
 
-### 13. VW Sharan 1.4 TSI Highline - €14.995 (Harderwijk)
+## Prijsklasse € 15.000 - € 17.000
+
+### 1. Volkswagen Sharan 1.4 TSI Highline 7persoons (bj 2014) - €15.950
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2372042638](https://link.marktplaats.nl/m2372042638) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
-| **Km-stand** | 128.432 km |
-| **Uitrusting** | Airco, Cruise, PDC |
-| **APK** | Tot december 2026 (nieuw) |
-| **Link** | [m2362516633](https://link.marktplaats.nl/m2362516633) |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2014 |
+| **Km-stand** | 126.106 km |
+| **APK tot** | 19 juni 2026 |
+| **Eigenaren** | 2 |
+| **Kleur** | Blauw |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bochtverlichting, Boordcomputer, Centrale vergrendeling, Climate control +19 meer |
 
 ---
 
-## Prijsklasse €15.000 - €17.000
+### 2. ✅Volkswagen Sharan 1.4 TSI 150pk 7-personen Trekhaak GARAN - €15.995
 
-> **Lagere km, nieuwere modellen (2014-2015), premium uitvoering.**
-
-### 14. VW Sharan 1.4 TSI Highline Panodak LED Adaptive - €16.450 (Velddriel)
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2369267284](https://link.marktplaats.nl/m2369267284) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
-| **Uitrusting** | Dynamic-pakket, LED Adaptive koplampen, Panoramadak, Elektrische trekhaak, Stoelverwarming |
-| **Link** | [m2368213453](https://link.marktplaats.nl/m2368213453) |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2015 |
+| **Km-stand** | 149.431 km |
+| **APK tot** | 20 oktober 2026 |
+| **Kleur** | Bruin |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer, Centrale vergrendeling +29 meer |
 
 ---
 
-### 15. VW Sharan 1.4 TSI Highline DSG Automaat - €16.888 (Workum)
+### 3. Volkswagen Sharan 1.4 TSI Highline 7p. Trekhaak - Pano - Cru - €16.450
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2368213453](https://link.marktplaats.nl/m2368213453) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2013 |
+| **Km-stand** | 131.709 km |
+| **APK tot** | 5 november 2027 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bochtverlichting, Boordcomputer, Centrale vergrendeling, Climate control +26 meer |
+
+---
+
+### 4. Volkswagen Sharan 1.4 TSI Highline 7p AUTOMAAT / TREKHAAK / - €16.888
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2369405274](https://link.marktplaats.nl/m2369405274) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | Trekhaak, Camera, Alcantara, Navigatie, Stoelverwarming, NL-auto |
-| **Link** | [m2369405274](https://link.marktplaats.nl/m2369405274) |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 144.817 km |
+| **APK tot** | 4 februari 2027 |
+| **Eigenaren** | 4 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Achteruitrijcamera, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer +22 meer |
 
 ---
 
-### 16. VW Sharan 1.4 TSI DSG Highline Panodak - €16.950 (Drunen) - **Zakelijk**
+### 5. ✅Volkswagen Sharan 1.4 TSI Highline 7-personen Trekhaak - €16.899
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2369266972](https://link.marktplaats.nl/m2369266972) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
-| **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | Panoramadak, Camera, Navigatie |
-| **Link** | [m2366019608](https://link.marktplaats.nl/m2366019608) |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 155.340 km |
+| **APK tot** | 28 februari 2027 |
+| **Kleur** | Wit |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer, Centrale vergrendeling +30 meer |
 
 ---
 
-### 17. VW Sharan 2.0 TSI Highline 200PK DSG - €16.950 (Wijk en Aalburg)
+### 6. Volkswagen Sharan 2.0 TSI Highline 7-Persoons Automaat Dakra - €16.950
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2371337858](https://link.marktplaats.nl/m2371337858) |
 | **Zitplaatsen** | 7 |
-| **Motor** | **2.0 TSI 200 PK** |
+| **Motor** | 2 TSI 200 PK |
 | **Transmissie** | **Automaat (DSG)** |
 | **Bouwjaar** | 2011 |
-| **Uitrusting** | Dakrails |
-| **Link** | [m2371337858](https://link.marktplaats.nl/m2371337858) |
-
-**Opmerking:** Krachtigste benzine, ideaal voor caravan trekken (meer pk).
-
----
-
-## Prijsklasse €17.000 - €20.000
-
-> **Premium segment:** Nieuwste modellen, laagste km, volledige opties, soms nieuwe motor.
-
-### 18. VW Sharan 1.4 TSI Exclusive Series - €17.400 (Venlo) - **Particulier**
-| Kenmerk | Waarde |
-|---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI 150 PK |
-| **Bouwjaar** | 2016 |
-| **Uitrusting** | PDC, Navigatie, Multimedia, Getinte ruiten, Auto Hold |
-| **Status** | Nog in gebruik |
-| **Link** | [m2356274499](https://link.marktplaats.nl/m2356274499) |
-
-**Opmerking:** Nieuwste bouwjaar in selectie (2016).
+| **Km-stand** | 128.756 km |
+| **APK tot** | 1 oktober 2026 |
+| **Kleur** | onbekend |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bochtverlichting, Boordcomputer, Centrale vergrendeling, Climate control +16 meer |
 
 ---
 
-### 19. VW Sharan Highline **NIEUWE MOTOR** - €17.500 (Lievelde)
+## Prijsklasse € 17.000 - € 20.000
+
+### 1. Volkswagen Sharan NIEUWE MOTOR Highline 7p. - €17.500 - **1e Eigenaar**
+
 | Kenmerk | Waarde |
 |---------|--------|
-| **Zitplaatsen** | 7 |
-| **Motor** | 1.4 TSI - **NIEUWE MOTOR** |
-| **Km-stand** | 174.787 km (motor is nieuw) |
-| **APK** | Tot september 2026 |
-| **Link** | [m2367895686](https://link.marktplaats.nl/m2367895686) |
-
-**TOP KEUZE voor zekerheid:** Nieuwe motor = jarenlang rijplezier zonder motorproblemen.
-
----
-
-### 20. VW Sharan 1.4 TSI Comfortline DSG Automaat - €17.695 (Amsterdam)
-| Kenmerk | Waarde |
-|---------|--------|
+| **ID** | [m2367895686](https://link.marktplaats.nl/m2367895686) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | Extra winterset, Navigatie, Stoelverwarming, Getint glas, Cruise |
-| **Link** | [m2362381218](https://link.marktplaats.nl/m2362381218) |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 174.787 km |
+| **APK tot** | 2 september 2026 |
+| **Eigenaren** | 1 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer, Centrale vergrendeling +22 meer |
 
 ---
 
-### 21. VW Sharan 1.4 TSI Highline DSG Automaat CarPlay - €17.800 (Ridderkerk)
+### 2. Volkswagen SHARAN 1.4 TSI Highline 7p Automaat-Carplay- stoe - €17.800
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2363422970](https://link.marktplaats.nl/m2363422970) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | **Automaat (DSG)** |
-| **Uitrusting** | **Apple CarPlay**, Stoelverwarming |
-| **Link** | [m2363422970](https://link.marktplaats.nl/m2363422970) |
-
-**Opmerking:** Met Apple CarPlay - moderne connectiviteit.
+| **Bouwjaar** | 2014 |
+| **Km-stand** | 137.907 km |
+| **APK tot** | 22 oktober 2026 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control +21 meer |
 
 ---
 
-### 22. VW Sharan 1.4 TSI Highline Edition DSG - €17.950 (Alkmaar)
+### 3. Volkswagen Sharan 1.4 TSI Highline Edition 7p / DSG / Clima - €17.950
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2363976956](https://link.marktplaats.nl/m2363976956) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | **Automaat (DSG)** |
 | **Bouwjaar** | 2013 |
-| **Km-stand** | 154.000 km |
-| **Uitrusting** | Clima |
-| **Documenten** | 2 sleutels, alle boekjes, historie aanwezig |
-| **Link** | [m2363976956](https://link.marktplaats.nl/m2363976956) |
+| **Km-stand** | 154.009 km |
+| **APK tot** | 30 mei 2026 |
+| **Eigenaren** | 2 |
+| **Kleur** | Wit |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer, Centrale vergrendeling +21 meer |
 
 ---
 
-### 23. VW Sharan 1.4 TSI DSG Highline FULLOPTION - €19.941 (Oss) - **1e Eigenaar**
+### 4. Volkswagen Sharan 1.4 TSI DSG Highline 7p. PANO XENON NAV BT - €19.941
+
 | Kenmerk | Waarde |
 |---------|--------|
+| **ID** | [m2371429577](https://link.marktplaats.nl/m2371429577) |
 | **Zitplaatsen** | 7 |
 | **Motor** | 1.4 TSI 150 PK |
 | **Transmissie** | **Automaat (DSG)** |
-| **Bouwjaar** | oktober 2014 |
-| **Km-stand** | **94.572 km** |
-| **Eigenaren** | **1e eigenaar** |
-| **Uitrusting** | Dynamic-pakket, Bi-Xenon Adaptive, Panoramadak, Navigatie, Stoelverwarming, Camera, LED DRL, Elektrische achterklep |
-| **Wegenbelasting** | €101/maand (~€303/kwartaal) |
-| **Energielabel** | B |
-| **Garantie** | Keuze 3/6/12 maanden |
-| **Link** | [m2371429577](https://link.marktplaats.nl/m2371429577) |
-
-**BESTE OPTIE IN BUDGET:** Laagste km (<95k), 1e eigenaar, fulloption, DSG automaat, uitgebreide garantie beschikbaar.
+| **Bouwjaar** | 2014 |
+| **Km-stand** | 94.572 km |
+| **Kleur** | Wit |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Bochtverlichting, Boordcomputer, Centrale vergrendeling +28 meer |
 
 ---
 
-## Aanbevelingen per Budget
+## Prijsklasse € 5.000 - € 7.000
 
-### Budget €5.000 - €7.000
-**Beste keuze:** [VW Sharan 1.4 TSI Highline €5.450](https://link.marktplaats.nl/m2369932285)
-- Voordeel: Compleet (leder, navi, trekhaak), laagste prijs
-- Nadeel: Oudste model, hoogste km
-- **Risico:** Inspectie laten doen op ketting, DSG indien aanwezig
+### 1. Volkswagen Sharan 1.8 110KW AUT 2008 Beige - €2.995
 
-### Budget €7.000 - €10.000
-**Beste keuze:** [VW Sharan 1.4 TSI DSG €9.995 Steenwijk](https://link.marktplaats.nl/m2370453486)
-- Voordeel: DSG automaat, Highline uitvoering, navigatie, PDC
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2368257938](https://link.marktplaats.nl/m2368257938) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.8 TSI 149 PK |
+| **Transmissie** | **Automaat (DSG)** |
+| **Bouwjaar** | 2008 |
+| **Km-stand** | 356.123 km |
+| **APK tot** | 7 februari 2026 |
+| **Eigenaren** | 2 |
+| **Kleur** | Beige |
 
-**Alternatief:** [VW Sharan 1.4 TSI DSG €9.995 Uithoorn](https://link.marktplaats.nl/m2361531144)
-- Voordeel: Panoramadak, trekhaak, particulier
+---
 
-### Budget €10.000 - €14.000
-**Voor automaat:** [VW Sharan 1.4 TSI Highline DSG €11.995](https://link.marktplaats.nl/m2367591052)
-- Voordeel: DSG automaat, Highline uitvoering, NL auto
-- Nadeel: Oudere model (2011)
+### 2. Volkswagen Sharan 1.4 TSI Trendline 7p. Engine broken prijs - €3.000
 
-### Budget €13.000 - €15.000 (SWEET SPOT)
-**Beste keuze:** [VW Sharan 1.4 TSI Comfortline Edition DSG €14.499](https://link.marktplaats.nl/m2366120202)
-- Voordeel: **1e eigenaar**, automaat, panoramadak, volledig uitgerust
-- Status: Al eerder geselecteerd als topkeuze
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2361557385](https://link.marktplaats.nl/m2361557385) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2013 |
+| **Km-stand** | 217.345 km |
+| **APK tot** | 11 juni 2026 |
+| **Eigenaren** | 3 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Airbags, Airconditioning, Boordcomputer, Centrale vergrendeling, Climate control, Cruise Control, Dakrails +9 meer |
 
-### Budget €15.000 - €17.000
-**Beste keuze:** [VW Sharan 1.4 TSI Highline DSG €16.888](https://link.marktplaats.nl/m2369405274)
-- Voordeel: Automaat, camera, alcantara, trekhaak, NL-auto
+---
 
-### Budget €17.000 - €20.000
-**Beste keuze:** [VW Sharan 1.4 TSI DSG Highline FULLOPTION €19.941](https://link.marktplaats.nl/m2371429577)
-- Voordeel: **Laagste km (94.572)**, **1e eigenaar**, alle opties, garantie beschikbaar
-- Als bijna nieuw maar voor helft van nieuwprijs
+### 3. Volkswagen Sharan 1.4 TSI Highline 7persoons Leder ECC APK P - €5.450 - **Particulier**
 
-**Alternatief voor zekerheid:** [VW Sharan NIEUWE MOTOR €17.500](https://link.marktplaats.nl/m2367895686)
-- Nieuwe motor = jaren zorgeloos rijden
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2369932285](https://link.marktplaats.nl/m2369932285) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 345.946 km |
+| **APK tot** | 1 juni 2026 |
+| **Eigenaren** | 3 |
+| **Kleur** | Blauw |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control +22 meer |
+
+---
+
+### 4. Volkswagen Sharan 1.4 TSI Comfortline 7 persoons Navigatie C - €6.945
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2372562811](https://link.marktplaats.nl/m2372562811) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 241.571 km |
+| **APK tot** | 5 juli 2026 |
+| **Eigenaren** | 2 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Boordcomputer, Centrale vergrendeling, Climate control, Cruise Control +18 meer |
+
+---
+
+## Prijsklasse € 7.000 - € 10.000
+
+### 1. Volkswagen Sharan 1.4 TSI 110KW DSG 2011 Grijs - €7.200 - **Particulier**
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2372430785](https://link.marktplaats.nl/m2372430785) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 149 PK |
+| **Transmissie** | **Automaat (DSG)** |
+| **Bouwjaar** | 2011 |
+| **Km-stand** | 285.000 km |
+| **APK tot** | 18 januari 2027 |
+| **Eigenaren** | 2 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Achteruitrijcamera, Airbags, Airconditioning, Alarm, Android Auto, Apple Carplay, Bluetooth +23 meer |
+
+---
+
+### 2. Volkswagen Sharan 1.4 TSI Comfortline 7p. - €8.950
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2367419604](https://link.marktplaats.nl/m2367419604) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 247.417 km |
+| **APK tot** | 6 december 2025 |
+| **Eigenaren** | 3 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Boordcomputer, Centrale vergrendeling, Climate control, Cruise Control +15 meer |
+
+---
+
+### 3. Volkswagen Sharan 1.4 TSI Highline 7p. trekhaak (bj 2012) - €9.450
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2370453237](https://link.marktplaats.nl/m2370453237) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | Handgeschakeld |
+| **Bouwjaar** | 2012 |
+| **Km-stand** | 229.711 km |
+| **Eigenaren** | 2 |
+| **Kleur** | Zilver of Grijs |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bochtverlichting, Boordcomputer, Centrale vergrendeling, Climate control +18 meer |
+
+---
+
+### 4. Volkswagen SHARAN 1.4 TSI HIGHL. ED-LMV-ECC-PDC-NAVI-7PERSOO - €9.995 - **1e Eigenaar**
+
+| Kenmerk | Waarde |
+|---------|--------|
+| **ID** | [m2370453486](https://link.marktplaats.nl/m2370453486) |
+| **Zitplaatsen** | 7 |
+| **Motor** | 1.4 TSI 150 PK |
+| **Transmissie** | **Automaat (DSG)** |
+| **Bouwjaar** | 2013 |
+| **Km-stand** | 200.585 km |
+| **APK tot** | 26 februari 2026 |
+| **Eigenaren** | 1 |
+| **Kleur** | Zwart |
+| **Opties** | ABS, Airbags, Airconditioning, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Climate control +22 meer |
+
+---
+
+## Aanbevelingen
+
+### Laagste Prijs
+- [Volkswagen Sharan 1.8 110KW AUT 2008 Beige](https://www.marktplaats.nl/v/auto-s/volkswagen/m2368257938-volkswagen-sharan-1-8-110kw-aut-2008-beige) - €2.995
+
+### Beste Automaat onder €10k
+- [Volkswagen Sharan 1.8 110KW AUT 2008 Beige](https://www.marktplaats.nl/v/auto-s/volkswagen/m2368257938-volkswagen-sharan-1-8-110kw-aut-2008-beige) - €2.995
+
+### Laagste Km-stand
+- [Volkswagen Sharan 1.4 TSI DSG Highline 7p. PANO XENON NAV BT](https://www.marktplaats.nl/v/auto-s/volkswagen/m2371429577-volkswagen-sharan-1-4-tsi-dsg-highline-7p-pano-xenon-nav-bt) - 94.572 km - €19.941
+
+### 1e Eigenaar
+- [Volkswagen SHARAN 1.4 TSI HIGHL. ED-LMV-ECC-PDC-NAVI-7PERSOO](https://www.marktplaats.nl/v/auto-s/volkswagen/m2370453486-volkswagen-sharan-1-4-tsi-highl-ed-lmv-ecc-pdc-navi-7persoo) - €9.995
+- [Volkswagen Sharan 1.4 110KW 2015 Zwart](https://www.marktplaats.nl/v/auto-s/volkswagen/m2369238735-volkswagen-sharan-1-4-110kw-2015-zwart) - €13.889
+- [Volkswagen Sharan 1.4 TSI Comfortline 7p. Navi, NAP Nette au](https://www.marktplaats.nl/v/auto-s/volkswagen/m2363310958-volkswagen-sharan-1-4-tsi-comfortline-7p-navi-nap-nette-au) - €13.950
+- [Volkswagen Sharan |1.4 TSI Highline |7p.](https://www.marktplaats.nl/v/auto-s/volkswagen/m2368538448-volkswagen-sharan-1-4-tsi-highline-7p) - €13.950
+- [Volkswagen Sharan NIEUWE MOTOR Highline 7p.](https://www.marktplaats.nl/v/auto-s/volkswagen/m2367895686-volkswagen-sharan-nieuwe-motor-highline-7p) - €17.500
 
 ---
 
 ## Belangrijke Aandachtspunten VW Sharan
 
 ### Motor/Aandrijflijn
-- **1.4 TSI:** Beste keuze - wegenbelasting €307-335/kwartaal (~€110/maand)
-- **2.0 TSI:** Meer vermogen (200 PK), iets hogere wegenbelasting
-- **Diesel vermijden:** €197/maand = €592/kwartaal wegenbelasting (bijna dubbel!)
-- **DSG versnellingsbak:** Check onderhoud (olie moet elke 60.000km vervangen)
-- **Distributieketting:** 1.4 TSI heeft ketting (geen vervanging nodig tenzij ratelend geluid)
+- **1.4 TSI:** Beste keuze - wegenbelasting ~€307-335/kwartaal
+- **2.0 TSI:** Meer vermogen (200 PK), iets hogere belasting
+- **DSG versnellingsbak:** Check onderhoud (olie elke 60.000km)
+- **Distributieketting:** 1.4 TSI heeft ketting (geen vervanging nodig)
 
-### Veelvoorkomende Problemen
-1. **DSG problemen:** Schokken bij laag toerental - check proefrit
-2. **Schuifdeurrails:** Slijtage bij veelvuldig gebruik
-3. **Turbo 1.4 TSI:** Oudere modellen hadden turbo-issues (vanaf 2012 verbeterd)
-4. **Startmotor:** Kan slijten door start-stop systeem
-
-### Wat te Checken bij Bezichtiging
+### Checklist Bezichtiging
 - [ ] NAP-check (km-stand)
 - [ ] Onderhoudsboekje compleet
-- [ ] DSG servicehistorie (elke 60.000km)
-- [ ] Schuifdeuren testen (openen/sluiten)
+- [ ] DSG servicehistorie
+- [ ] Schuifdeuren testen
 - [ ] Alle 7 stoelen uitproberen
-- [ ] Panoramadak werking (indien aanwezig)
-- [ ] Eventuele roestvorming wielkasten
+- [ ] Panoramadak werking
+- [ ] Roestvorming wielkasten
 
----
-
-## Conclusie
-
-| Scenario | Aanbeveling | Prijs |
-|----------|-------------|-------|
-| **Laagste prijs** | Sharan 1.4 TSI Highline Snelrewaard | €5.450 |
-| **Beste waarde <€10k** | Sharan 1.4 TSI DSG Steenwijk | €9.995 |
-| **Sweet spot kwaliteit** | Sharan 1.4 TSI DSG Tilburg (1e eigenaar) | €14.499 |
-| **Beste algeheel** | Sharan 1.4 TSI DSG Oss (94k km, fulloption) | €19.941 |
-| **Maximum zekerheid** | Sharan met NIEUWE MOTOR Lievelde | €17.500 |
-
-**Wegenbelasting alle benzine 1.4 TSI:** €307-335 per kwartaal (~€100-112/maand)
