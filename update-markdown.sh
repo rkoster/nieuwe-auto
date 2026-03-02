@@ -103,14 +103,28 @@ def is_dsg:
 # Recommendations section
 "## Aanbevelingen\n\n" +
 
+# 2.0 TSI with DSG - highlighted as best choice
+"### ⭐ Beste Keuze: 2.0 TSI met DSG (meest robuust)\n" +
+($sorted | map(select(.cylinderCapacity >= 2000 and (.vehicleTransmission | is_dsg))) |
+  if length > 0 then
+    map("- [" + .title + "](" + .url + ") - " + (.price | format_price) + " - " + (.mileage | format_mileage) + " - **2.0 TSI DSG**") | join("\n") + "\n\n"
+  else "- Geen 2.0 TSI + DSG gevonden in huidige selectie\n\n" end) +
+
+"### Alle 2.0 TSI (ook handgeschakeld)\n" +
+($sorted | map(select(.cylinderCapacity >= 2000)) |
+  if length > 0 then
+    map("- [" + .title + "](" + .url + ") - " + (.price | format_price) + 
+        (if (.vehicleTransmission | is_dsg) then " - **DSG**" else " - Handgeschakeld" end)) | join("\n") + "\n\n"
+  else "- Geen 2.0 TSI gevonden in huidige selectie\n\n" end) +
+
+"### Beste 1.4 TSI met DSG (alternatief)\n" +
+($sorted | map(select(.cylinderCapacity < 2000 and (.vehicleTransmission | is_dsg))) | sort_by(.mileage) | first // null |
+  if . then "- [" + .title + "](" + .url + ") - " + (.price | format_price) + " - " + (.mileage | format_mileage) + "\n\n"
+  else "- Geen 1.4 TSI + DSG gevonden\n\n" end) +
+
 # Find best in each category
 "### Laagste Prijs\n" +
 ($sorted | first | "- [" + .title + "](" + .url + ") - " + (.price | format_price) + "\n\n") +
-
-"### Beste Automaat onder €10k\n" +
-($sorted | map(select(.price < 1000000 and (.vehicleTransmission | is_dsg))) | first // null |
-  if . then "- [" + .title + "](" + .url + ") - " + (.price | format_price) + "\n\n"
-  else "- Geen gevonden\n\n" end) +
 
 "### Laagste Km-stand\n" +
 ($sorted | map(select(.mileage != null and .mileage > 0)) | sort_by(.mileage) | first // null |
@@ -125,18 +139,25 @@ def is_dsg:
 
 "---\n\n## Belangrijke Aandachtspunten VW Sharan\n\n" +
 "### Motor/Aandrijflijn\n" +
-"- **1.4 TSI:** Beste keuze - wegenbelasting ~€307-335/kwartaal\n" +
-"- **2.0 TSI:** Meer vermogen (200 PK), iets hogere belasting\n" +
-"- **DSG versnellingsbak:** Check onderhoud (olie elke 60.000km)\n" +
-"- **Distributieketting:** 1.4 TSI heeft ketting (geen vervanging nodig)\n\n" +
+"- **2.0 TSI (200 PK):** Robuuster, minder belast - ideaal voor zware belading/caravan\n" +
+"- **1.4 TSI (150 PK):** Zuiniger, maar werkt harder bij volle belading\n" +
+"- **Distributieketting:** Beide motoren hebben ketting (geen vervanging nodig)\n" +
+"- **Wegenbelasting:** Verschil minimaal (~€30/kwartaal meer voor 2.0 TSI)\n" +
+"- **DSG versnellingsbak:** Check onderhoud (olie elke 60.000km)\n\n" +
+"### Waarom 2.0 TSI?\n" +
+"- Minder belast bij 7 personen + bagage\n" +
+"- Betere trekcapaciteit voor caravan\n" +
+"- Robuustere motor, minder turbo-stress\n" +
+"- Nauwelijks duurder in wegenbelasting\n\n" +
 "### Checklist Bezichtiging\n" +
 "- [ ] NAP-check (km-stand)\n" +
 "- [ ] Onderhoudsboekje compleet\n" +
-"- [ ] DSG servicehistorie\n" +
+"- [ ] DSG servicehistorie (olie elke 60.000km)\n" +
 "- [ ] Schuifdeuren testen\n" +
 "- [ ] Alle 7 stoelen uitproberen\n" +
 "- [ ] Panoramadak werking\n" +
-"- [ ] Roestvorming wielkasten\n"
+"- [ ] Roestvorming wielkasten\n" +
+"- [ ] Luister naar ketting bij koude start (ratelgeluid = probleem)\n"
 ' "$INPUT_FILE" > "$OUTPUT_FILE"
 
 # Count lines

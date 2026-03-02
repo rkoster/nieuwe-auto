@@ -529,10 +529,18 @@ Zoekdatum: 2 maart 2026
 
 ## Aanbevelingen
 
-### Laagste Prijs
-- [Volkswagen Sharan 1.8 110KW AUT 2008 Beige](https://www.marktplaats.nl/v/auto-s/volkswagen/m2368257938-volkswagen-sharan-1-8-110kw-aut-2008-beige) - €2.995
+### ⭐ Beste Keuze: 2.0 TSI met DSG (meest robuust)
+- [Volkswagen Sharan 2.0 TSI 147KW DSG](https://www.marktplaats.nl/v/auto-s/volkswagen/m2370726610-volkswagen-sharan-2-0-tsi-147kw-dsg) - €11.950 - 250.063 km - **2.0 TSI DSG**
+- [Volkswagen Sharan 2.0 TSI Highline 7-Persoons Automaat Dakra](https://www.marktplaats.nl/v/auto-s/volkswagen/m2371337858-volkswagen-sharan-2-0-tsi-highline-7-persoons-automaat-dakra) - €16.950 - 128.756 km - **2.0 TSI DSG**
 
-### Beste Automaat onder €10k
+### Alle 2.0 TSI (ook handgeschakeld)
+- [Volkswagen Sharan 2.0 TSI 147KW DSG](https://www.marktplaats.nl/v/auto-s/volkswagen/m2370726610-volkswagen-sharan-2-0-tsi-147kw-dsg) - €11.950 - **DSG**
+- [Volkswagen Sharan 2.0 TSI Highline 7-Persoons Automaat Dakra](https://www.marktplaats.nl/v/auto-s/volkswagen/m2371337858-volkswagen-sharan-2-0-tsi-highline-7-persoons-automaat-dakra) - €16.950 - **DSG**
+
+### Beste 1.4 TSI met DSG (alternatief)
+- [Volkswagen Sharan 1.4 TSI DSG Highline 7p. PANO XENON NAV BT](https://www.marktplaats.nl/v/auto-s/volkswagen/m2371429577-volkswagen-sharan-1-4-tsi-dsg-highline-7p-pano-xenon-nav-bt) - €19.941 - 94.572 km
+
+### Laagste Prijs
 - [Volkswagen Sharan 1.8 110KW AUT 2008 Beige](https://www.marktplaats.nl/v/auto-s/volkswagen/m2368257938-volkswagen-sharan-1-8-110kw-aut-2008-beige) - €2.995
 
 ### Laagste Km-stand
@@ -550,17 +558,25 @@ Zoekdatum: 2 maart 2026
 ## Belangrijke Aandachtspunten VW Sharan
 
 ### Motor/Aandrijflijn
-- **1.4 TSI:** Beste keuze - wegenbelasting ~€307-335/kwartaal
-- **2.0 TSI:** Meer vermogen (200 PK), iets hogere belasting
+- **2.0 TSI (200 PK):** Robuuster, minder belast - ideaal voor zware belading/caravan
+- **1.4 TSI (150 PK):** Zuiniger, maar werkt harder bij volle belading
+- **Distributieketting:** Beide motoren hebben ketting (geen vervanging nodig)
+- **Wegenbelasting:** Verschil minimaal (~€30/kwartaal meer voor 2.0 TSI)
 - **DSG versnellingsbak:** Check onderhoud (olie elke 60.000km)
-- **Distributieketting:** 1.4 TSI heeft ketting (geen vervanging nodig)
+
+### Waarom 2.0 TSI?
+- Minder belast bij 7 personen + bagage
+- Betere trekcapaciteit voor caravan
+- Robuustere motor, minder turbo-stress
+- Nauwelijks duurder in wegenbelasting
 
 ### Checklist Bezichtiging
 - [ ] NAP-check (km-stand)
 - [ ] Onderhoudsboekje compleet
-- [ ] DSG servicehistorie
+- [ ] DSG servicehistorie (olie elke 60.000km)
 - [ ] Schuifdeuren testen
 - [ ] Alle 7 stoelen uitproberen
 - [ ] Panoramadak werking
 - [ ] Roestvorming wielkasten
+- [ ] Luister naar ketting bij koude start (ratelgeluid = probleem)
 
