@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "marktplaats": {
+      "type": "local",
+      "command": ["uvx", "git+https://github.com/PonClick/marktplaats-mcp", "marktplaats-mcp"],
+      "enabled": true
+    }
+  }
+}
