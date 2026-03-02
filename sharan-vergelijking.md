@@ -57,7 +57,7 @@ Zoekdatum: 2 maart 2026
 | **Conditie** | Gebruikt |
 | **Link** | [m2365062744](https://link.marktplaats.nl/m2365062744) |
 
-**Let op:** Diesel = hogere wegenbelasting! (~€450-500/kwartaal)
+**Let op:** Diesel = hogere wegenbelasting! (~€197/maand = €592/kwartaal)
 
 ---
 
@@ -517,7 +517,7 @@ Zoekdatum: 2 maart 2026
 
 ### Motor/Aandrijflijn
 - **1.4 TSI:** Beste keuze voor wegenbelasting (€307-335/kwartaal)
-- **2.0 TDI:** Meer koppel maar veel hogere wegenbelasting (~€450-500/kwartaal)
+- **2.0 TDI:** Meer koppel maar veel hogere wegenbelasting (~€197/maand = €592/kwartaal)
 - **DSG versnellingsbak:** Check onderhoud (olie moet elke 60.000km vervangen)
 - **Distributieketting:** 1.4 TSI heeft ketting (geen vervanging nodig tenzij ratelend geluid)
 
